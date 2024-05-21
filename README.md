@@ -8,6 +8,6 @@ As grades de universidades, cursos e mentorias que encontrei pela internet.
 
 | Nome do arquivo MarkDown | Link |
 | --- | --- |
-| 001_Grade_ | []Link Grade](/Grades/001_Grade.md) |
+| 001_Grade_ | [Link Grade](/Grades/001_Grade.md) |
 | 002_Grade_Uniftec | [Link Grade](/Grades/002_Grade_Uniftec.pdf) |
 | 03_Grade_CruzeiroDoSul | [Link Grade](/Grades/003_Grade_CruzeiroDoSul.md) |
