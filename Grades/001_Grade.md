@@ -1,10 +1,10 @@
-[x] Estatística
+- [x] Estatística
 
-[x] Segurança em Redes de Computadores
+- [x] Segurança em Redes de Computadores
 
-- Comunicação Aplicada
+- [x] Comunicação Aplicada
 
-- Segurança de Sistemas Operacionais
+- [x] Segurança de Sistemas Operacionais
 
 - Análise e Gestão de Riscos
 
