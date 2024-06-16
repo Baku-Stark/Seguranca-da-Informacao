@@ -6,9 +6,9 @@
 
 - [x] Segurança de Sistemas Operacionais
 
-- Análise e Gestão de Riscos
+- [x] Análise e Gestão de Riscos
 
-- Segurança no Ambiente Web
+- [x] Segurança no Ambiente Web
 
 - Ética e Legislação Profissional
 
