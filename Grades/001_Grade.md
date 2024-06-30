@@ -18,13 +18,13 @@
 
 - Desastre e Recuperação
 
-- Banco de Dados
+- [x] Banco de Dados
 
 - Computação Forense
 
-- Redes de Computadores (Arquitetura e Fundamentos)
+- [x] Redes de Computadores (Arquitetura e Fundamentos)
 
-- Criptografia
+- [x] Criptografia
 
 - Lógica
 
