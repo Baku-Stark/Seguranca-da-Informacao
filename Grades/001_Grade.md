@@ -10,9 +10,9 @@
 
 - [x] Segurança no Ambiente Web
 
-- Ética e Legislação Profissional
+- [x]Ética e Legislação Profissional
 
-- Auditoria de Sistemas
+- [x]Auditoria de Sistemas
 
 - Políticas de Segurança
 
